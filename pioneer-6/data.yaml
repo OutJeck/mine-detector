@@ -1,0 +1,21 @@
+names:
+- F-1
+- MM-120
+- MON-50
+- OG-9B
+- OZM-72
+- PFM-1
+- PMN
+- POM-3
+- RGO-RGN
+- TM-62
+- VOG-17
+nc: 11
+roboflow:
+  license: BY-NC-SA 4.0
+  project: pioneer
+  version: 6
+  workspace: minesweeper-ybzkj
+test: pioneer-6/test/images
+train: pioneer-6/train/images
+val: pioneer-6/valid/images
